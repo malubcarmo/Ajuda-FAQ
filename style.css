@@ -1,6 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
+box {
+  align-items: center;
+}
 .box p {
   justify-content: center;
-  align-items: center;
+  text-align: center;
+  color: blue;
+}
+
+.box h1 {
+  justify-content: center;
+  text-align: center;
 }
